@@ -1,5 +1,5 @@
 {
-  "name": "wang-cli",
+  "name": "wang-module-cli",
   "version": "1.0.0",
   "description": "仿vue-cli项目脚手架",
   "bin": {
