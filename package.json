@@ -1,6 +1,6 @@
 {
   "name": "wang-module-cli",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "仿vue-cli项目脚手架",
   "bin": {
     "wang": "bin/wang-cli.js"
@@ -29,5 +29,9 @@
   "engines": {
     "node": ">=8.9"
   },
-  "dependencies": {}
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wjq1994/wang-cli.git"
+  }
 }
